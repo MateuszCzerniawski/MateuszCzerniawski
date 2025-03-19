@@ -7,8 +7,8 @@
 </h3>
 <h2>Python Projects</h2>
 <h3>
-  [Movement Classifier](https://github.com/MateuszCzerniawski/MovementDetection.git)
-  [Wish Sender App](https://github.com/MateuszCzerniawski/Wish-Sender-Web-App.git)
+  [Movement Classifier](https://github.com/MateuszCzerniawski/MovementDetection.git)<br>
+  [Wish Sender App](https://github.com/MateuszCzerniawski/Wish-Sender-Web-App.git)<br>
 </h3>
 <h2>Java Projects</h2>
 <h3>
