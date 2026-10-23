@@ -25,6 +25,7 @@
 </ul>
 <h3>Other</h3>
 <ul>
+  <li><a href="https://github.com/MateuszCzerniawski/RespawnariseMod.git">Minecraft Neoforge 1.21.1 spawner mod</a></li>
   <li><a href="https://github.com/MateuszCzerniawski/PacMan_on_Java.git">Pacman on Java</a></li>
   <li><a href="https://github.com/MateuszCzerniawski/Hexagon.git">Hexxagon on C++</a></li>
 </ul>
